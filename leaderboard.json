@@ -1,0 +1,12 @@
+[
+    { "id": 1, "fullName": "Ishola Ibrahim Damilola", "Username": "@he-bro", "Email": "dami4biz@gmail.com", "Points": 17},
+    { "id": 2, "fullName": "Alison Udeme", "Username": "@alison", "Email": "alisonudeme99@gmail.com", "Points": 18},
+    { "id": 3, "fullName": "Semihan omoshalewa Dosunmu", "Username": "@semihan", "Email": "shalewa64@gmail.com", "Points": 15},
+    { "id": 4, "fullName": "Praise Ajayi", "Username": "@praiseAj", "Email": "praiseajayi2@gmail.com", "Points": 14}, 
+    { "id": 5, "fullName": "Uyi-Idahor Benard Aiseosa", "Username": "@Aise", "Email": "aiseosauyiidahor@gmail.com", "Points": 39},
+    { "id": 6, "fullName": "Dikamsi Young Udochi", "Username": "@dikamsi", "Email": "youngudochi15@gmail.com", "Points": 27},
+    { "id": 7, "fullName": "Paul Olwabukunmi Shotolu", "Username": "@paul", "Email": "paulshotolu@gmail.com", "Points": 24},
+    { "id": 8, "fullName": "Joseph Kalu", "Username": "@BigJoe", "Email": "mrjosephkalu@gmail.com", "Points": 40},
+    { "id": 9, "fullName": "Udumukwu Daniel", "Username": "@Nonso", "Email": "uwaekedaneiel@gmail.com", "Points": 19},
+    { "id": 10, "fullName": "Bolu Akinsola", "Username": "@boluakins", "Email": "aiseosauyiidahor@gmail.com", "Points": 39}
+  ]
