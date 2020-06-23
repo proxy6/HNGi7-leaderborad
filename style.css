@@ -29,14 +29,8 @@ th{
    td{
        padding: 10px;
    }
-   .card-header{
-       text-align: center;
-       text-decoration: solid;
-        color: black;
-    
-   }
-   .card{
-    background-color: #262926;
+   #tbody>tr>th{
+    padding-left: 20px;
    }
 
    /* social media buttons*/
